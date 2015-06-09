@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   source/includeme
+   includeme
 
 
 Indices and tables
